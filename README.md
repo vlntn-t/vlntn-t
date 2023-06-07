@@ -43,7 +43,7 @@
 </p>
 
 
-##### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 <p>
 <img alt="DATABRICKS" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 <img alt="DBT" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
