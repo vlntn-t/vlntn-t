@@ -5,8 +5,12 @@
 ##### Data
 
 <p>
-<img alt="QLIK" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=Qgis&logoColor=white" />
+<a href="https://www.qlik.com/" target="_blank">
+  <img alt="QLIK" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=Qgis&logoColor=white" />
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
 <img alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+</a>
 <img alt="TABLEAU" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 </p>
 
