@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-#### 🔭 I’m currently working with
+### 🔭 I’m currently working with
 
-##### Data
+#### Data
 
 <p>
 <a href="https://www.qlik.com/">
@@ -26,7 +26,7 @@
 <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-##### Infrastructure & Other Tools
+#### Infrastructure & Other Tools
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
@@ -36,7 +36,7 @@
 <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-##### Web
+#### Web
 <p>
   
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -50,7 +50,7 @@
 </p>
 
 
-#### 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 <p>
 <img alt="DATABRICKS" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 <img alt="DBT" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
