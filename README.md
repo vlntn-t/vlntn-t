@@ -9,7 +9,7 @@
   <img alt="QLIK" src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=Qgis&logoColor=white" />
 </a>
 <a href="https://powerbi.microsoft.com/">
-<img alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img alt="POWERBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
 </a>
 <a href="https://www.tableau.com/">
 <img alt="TABLEAU" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
